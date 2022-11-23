@@ -50,13 +50,6 @@ The point of this backend application is to test CRUD operations with MySQL data
 
 <!-- INSTALLATION INSTRUCTIONS -->
 
-## How To Install
-
-**Git clone**
-
-```
-git clone https://github.com/almoggutin/Node-Express-REST-API-MySQL-JS-Example
-```
 
 **Instructions**
 
