@@ -6,7 +6,6 @@
   <p align="center">
     This REST API example is a basic backend application to test basic API functions with MySQL database.
   </p>
-  <a href="https://www.postman.com/workspace/node-js-express-mysql-rest-api-example/overview">View Postman Files</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
